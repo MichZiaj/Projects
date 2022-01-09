@@ -38,7 +38,7 @@ const HomeAboutApp = () => {
             </div>
             <div className="button__container">
                 <Link className="button" to="/logowanie">
-                    <span>ODDAJ RZECZY</span>
+                    <span>ODDAJ <br/> RZECZY</span>
                 </Link>
             </div>
         </section>
