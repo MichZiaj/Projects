@@ -1,6 +1,6 @@
 import React from 'react';
 
-const Gallery = () => {
+const Logout = () => {
     return (
         <section className='Gallery'>
             Galerry
@@ -9,4 +9,4 @@ const Gallery = () => {
     );
 };
 
-export default Gallery;
+export default Logout;

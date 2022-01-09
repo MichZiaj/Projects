@@ -1,7 +1,7 @@
 import React from 'react';
 
 
-const About = () => {
+const Login = () => {
     return (
         <section className='about-us'>
          About-us
@@ -9,4 +9,4 @@ const About = () => {
     );
 };
 
-export default About;
+export default Login;
