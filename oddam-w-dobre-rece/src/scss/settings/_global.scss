@@ -2,3 +2,24 @@
   width: 1200px;
   margin: auto;
 }
+body {
+  font-family: $font-base;
+  font-weight: 300;
+}
+
+a {
+  text-decoration: none;
+  color: $color-text;
+  font-family: $font-base !important;
+}
+
+.button {
+  border: 1px solid black;
+  color: $color-text;
+  display: inline-block;
+  background: #fff;
+  padding: 10px 30px;
+  font-size: 1.3rem;
+  font-weight: 250;
+  text-align: center;
+  margin: 10px;}
